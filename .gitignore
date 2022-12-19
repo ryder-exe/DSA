@@ -1,1 +1,3 @@
-*.exe
+.circularqueue.exe
+.Stack.exe
+.linearqueue.exe
