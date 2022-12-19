@@ -32,8 +32,8 @@ int main(){
                     break;
             case 3: PEEP();
                     break;
-            // case 4: CHANGES();
-            //         break;
+            case 4: CHANGES();
+                    break;
             case 5: DISPLAY();
                     break;
             case 6: cout<<"Exiting the stack operation.....";
@@ -123,3 +123,6 @@ void DISPLAY(){
     }
     cout<<endl;
 }
+
+
+//------------------------------------------------------------------------------------------------------------------------------
